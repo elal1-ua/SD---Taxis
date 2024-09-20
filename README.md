@@ -1,2 +1,2 @@
-# SD---Taxis
-Práctica de la Asignatura Sistemas Distribuidos
+# SD - Práctica Taxis
+
